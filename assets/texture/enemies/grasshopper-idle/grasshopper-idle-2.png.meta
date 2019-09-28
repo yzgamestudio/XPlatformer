@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f681f06f-c779-44a5-babf-56bc5361fe35",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "grasshopper-idle-2": {
+      "ver": "1.0.4",
+      "uuid": "90e2af08-7fb8-4184-965f-d24d66d8f192",
+      "rawTextureUuid": "f681f06f-c779-44a5-babf-56bc5361fe35",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 4.5,
+      "trimX": 10,
+      "trimY": 3,
+      "width": 30,
+      "height": 30,
+      "rawWidth": 52,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

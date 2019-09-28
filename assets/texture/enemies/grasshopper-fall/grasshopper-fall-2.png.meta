@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a359c5de-c053-41c6-bd52-d56b8b224811",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "grasshopper-fall-2": {
+      "ver": "1.0.4",
+      "uuid": "a7294612-e273-48cf-90c9-29893521590a",
+      "rawTextureUuid": "a359c5de-c053-41c6-bd52-d56b8b224811",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 4,
+      "width": 41,
+      "height": 38,
+      "rawWidth": 52,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
